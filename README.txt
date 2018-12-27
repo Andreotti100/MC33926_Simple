@@ -1,4 +1,4 @@
-Simple version of the MC33926 dual motor driver.
+Simple version of the MC33926 dual motor library for the Arduino.
 
 Problem with the original "DualMC33926MotorShield" driver 
 is the influence of Timer 1 and the lack of accuracy.
